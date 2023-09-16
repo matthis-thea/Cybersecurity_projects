@@ -26,7 +26,7 @@ The final result is :
 CAPTCHA_BREAKING :
 This code is for a CTF. It's a code for break a captcha with 30 or 40 percent of success. At the start, the captcha was like this :
 
-<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/CAPTCHA_BREAKING/orginal_captcha.png">
+<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/CAPTCHA_BREAKING/orignal_captcha.png">
 
 Once the captcha has been captured,, we will obfuscate the captcha like this : 
 
