@@ -15,22 +15,22 @@ QRCODE_DECRYPTER :
 It's a code for decode a QR code. In this code, the QR code had not the three squares in the corner, so i added them.
 At the start, the Qr code was like this :
 
-<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/QRcode_Decrypter/original_QRcode.png">
+<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/QRCODE_DECRYPTER/original_QRcode.png">
 
 So, i modified it to read and decrypt the QRcode
 The final result is :
 
-<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/QRcode_Decrypter/modified_QRcode.png">
+<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/QRCODE_DECRYPTER/modified_QRcode.png">
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 CAPTCHA_BREAKING :
 This code is for a CTF. It's a code for break a captcha with 30 or 40 percent of success. At the start, the captcha was like this :
 
-<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/Captcha_breaking/orignal_captcha.png">
+<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/CAPTCHA_BREAKING/orginal_captcha.png">
 
 Once the captcha has been captured,, we will obfuscate the captcha like this : 
 
-<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/Captcha_breaking/modified_captcha.png">
+<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/CAPTCHA_BREAKING/modified_captcha.png">
 
 Once we have that, we will use Tesseract which is a character recognition tool and will allow us to capture the characters and put them into an array.
 Tesseract is not optimal, which is why the success percentage is minimal.
