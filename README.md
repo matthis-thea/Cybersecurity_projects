@@ -36,3 +36,8 @@ Once we have that, we will use Tesseract which is a character recognition tool a
 Tesseract is not optimal, which is why the success percentage is minimal.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+WEBSHELL:
+This is a simple exemple of webshell in php which allow to execute shell commands in a website :
+
+<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/WEBSHELL/webshell.png">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
