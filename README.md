@@ -8,9 +8,6 @@ BLIND_SQL : Example of blind SQL injection with test website. The code is not or
 PYTHON-BOT-OR-WEB_SCRAPPING-BOT : They are a Bots in python3. They connect to TCP or static or dynamic Web Pages. They do a mini challenges. 
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-SHELLCODE : Here are somes shellcodes in architecture x86 and x86_64. This shellcodes are a every type. 
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
 QRCODE_DECRYPTER :
 It's a code for decode a QR code. In this code, the QR code had not the three squares in the corner, so i added them.
 At the start, the Qr code was like this :
@@ -35,9 +32,3 @@ Once the captcha has been captured,, we will obfuscate the captcha like this :
 Once we have that, we will use Tesseract which is a character recognition tool and will allow us to capture the characters and put them into an array.
 Tesseract is not optimal, which is why the success percentage is minimal.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
-WEBSHELL:
-This is a simple exemple of webshell in php which allow to execute shell commands in a website :
-
-<img width="217" alt="Screen Shot 2023-01-28 at 7 34 38 PM" src="https://github.com/matthis-thea/Cybersecurity_projects/blob/main/WEBSHELL/webshell.jpg">
------------------------------------------------------------------------------------------------------------------------------------------------------------
